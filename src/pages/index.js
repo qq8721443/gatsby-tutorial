@@ -9,6 +9,7 @@ const IndexPage = () => {
       <StaticImage
         alt="Canyon in my local"
         src="../images/canyon.jpg"
+        width={500}
       />
     </Layout>
   )
